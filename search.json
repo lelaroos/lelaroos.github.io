@@ -2,15 +2,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Lela Roos",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am mainly interested in educational measurement and psychometrics. Currently, I am writing my thesis on the use of continuous background variables in DIF detection methods, under the supervision of Dr. Remco Feskens from Cito.\nNext to my studies I have also been involved as a student assistant in many courses taught by the Methodology and Statistics department. This work has ranged from teaching introductory statistics tutorials for bachelor students to assisting during the lab meetings of post-graduate courses.\nYou can check my CV to see all my professional and educational experience, and keep up to date with me through LinkedIn."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Hi! I’m Lela",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome on my website! I’m a Methodology & Statistics student at Utrecht University, on this website you can learn more about me and what I do."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Thesis project",
+    "section": "",
+    "text": "My thesis is focused on developing a method for the use of continuous background variables in the detection of differential item functioning (DIF). One aim of the thesis is to bring developments from both the Item Response Theory (IRT) and the Strucutral Equation Modelling (SEM) framework together.\nIn this midway report you can get a sense of the current state of the project.\nThe project is supervised by Dr. Remco Feskens from Cito."
   }
 ]
