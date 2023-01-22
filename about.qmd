@@ -1,9 +1,20 @@
 ---
-title: "About"
+title: "Lela Roos"
+about:
+  template: trestles
+  image: static/lelasoldface.JPG
+  image-shape: round
+  links:
+  - icon: github
+    text: Github
+    href: https://github.com/lelaroos
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/lelaroos/
 ---
 
-About this site
+I am mainly interested in educational measurement and psychometrics. Currently, I am writing my thesis on the use of continuous background variables in DIF detection methods, under the supervision of [Dr. Remco Feskens from Cito](https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/remco-feskens).
 
-```{r}
-1 + 1
-```
+Next to my studies I have also been involved as a student assistant in many courses taught by the Methodology and Statistics department. This work has ranged from teaching introductory statistics tutorials for bachelor students to assisting during the lab meetings of post-graduate courses.
+
+You can check my [CV](static/LR_CV.pdf) to see all my professional and educational experience, and keep up to date with me through [LinkedIn](https://www.linkedin.com/in/lelaroos/).

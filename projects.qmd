@@ -1,0 +1,9 @@
+---
+title: "Thesis project"
+---
+
+My thesis is focused on developing a method for the use of continuous background variables in the detection of differential item functioning (DIF). One aim of the thesis is to bring developments from both the Item Response Theory (IRT) and the Strucutral Equation Modelling (SEM) framework together.
+
+In this [midway report](static/midway_thesis.pdf) you can get a sense of the current state of the project.
+
+The project is supervised by [Dr. Remco Feskens from Cito](https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/remco-feskens).
